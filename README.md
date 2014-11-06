@@ -14,14 +14,14 @@ English docs are avaliable on [here][english-version]
 
 웹사이트HTML문서의 ``<head>``안에 아래 코드를 붙혀 넣으시면 됩니다.
 ```
-<link href='http://www.openhiun.com/hangul/nanumbarungothic.css' rel='stylesheet' type='text/css'>
+<link href='https://cdn.rawgit.com/openhiun/hangul/master/nanumbarungothic.css' rel='stylesheet' type='text/css'>
 ```
 
 **@import**
 
 웹사이트HTML문서의 ``<head>``안의 스타일 시트에 아래 코드를 붙혀 넣으시면 됩니다.
 ```
-@import url(http://www.openhiun.com/hangul/nanumbarungothic.css);
+@import url(https://cdn.rawgit.com/openhiun/hangul/master/nanumbarungothic.css);
 ```
 
 ## 적용하기
@@ -56,7 +56,7 @@ body {
 
 # Nanum Barun Gothic Web Fonts
 
-In October 2013, South Korea's biggest internet portal [Naver.com][navermain] has released 'Nanum Barun Gothic' font to 
+In October 2013, South Korea's internet portal [Naver.com][navermain] has released 'Nanum Barun Gothic' font to 
 celebrating 'Hangul Day' and encouraging usage of hangul. I created Nanum Barun Gothic to web fonts for my personal needs. 
 Everyone is welcome to use this and sooner or later Google Web API are supporting Nanum Barun Gothic, I recommand use that instead of this.
 (But it dosen't mean do not use this.)
@@ -69,14 +69,14 @@ Nanum Barun Gothic web fonts are available on 2 different way.
 
 To use font, insert below code to ``<head>``tag on your HTML document.
 ```
-<link href='http://www.openhiun.com/hangul/nanumbarungothic.css' rel='stylesheet' type='text/css'>
+<link href='https://cdn.rawgit.com/openhiun/hangul/master/nanumbarungothic.css' rel='stylesheet' type='text/css'>
 ```
 
 **@import**
 
 To use font, insert below code to stylesheet in``<head>``tag on your HTML document.
 ```
-@import url(http://www.openhiun.com/hangul/nanumbarungothic.css);
+@import url(https://cdn.rawgit.com/openhiun/hangul/master/nanumbarungothic.css);
 ```
 
 ## Applying
