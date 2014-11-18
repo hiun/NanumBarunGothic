@@ -8,7 +8,7 @@ English docs are avaliable on [here][english-version]
 
 ## 시작하기
 
-나눔바른고딕 웹폰트는 2가지 형태으로 사용할수 있습니다.
+본 저장소의 나눔바른고딕 웹폰트의 weight는 Bold(700), Regular(400), Light(300), UltraLight(200) 총 4가지 입니다.
 
 **기본**
 
@@ -53,6 +53,12 @@ body {
 
 [데모 페이지][demo]에서 나눔바른고딕을 적용한 페이지를 보실수 있습니다.
 
+## 기여자들
+[wan2land] - 새로나온 Light와 UltraLight weight의 웹폰트 제공.
+
+[EzKorry] - 데모 코드의 `Content-Type` 에러에 대한 이슈 제기.
+
+[kaiserjun] - `.woff` 방식 웹폰트 파일의 에러에 대한 이슈 제기.
 
 # Nanum Barun Gothic Web Fonts
 
@@ -62,6 +68,8 @@ Everyone is welcome to use this and sooner or later Google Web API are supportin
 (But it dosen't mean do not use this.)
 
 ## Getting Started
+
+Bold(700), Regular(400), Light(300), UltraLight(200) weighted Nanum Barun Gothic is in this repository.
 
 Nanum Barun Gothic web fonts are available on 2 different way.
 
@@ -107,7 +115,18 @@ or applying font on class name like text, code is something like below?
 ## Demo
 You can checkout Nanum Barun Gothic applied page at [Demo Page][demo]
 
+## Contributors
+[wan2land] - Providing converted new Light and UltraLight font.
+
+[EzKorry] - Issuing about `Content-Type` error in demo code.
+
+[kaiserjun] - Issuing about conversion error in `.woff` format font.
+
 [english-version]: https://github.com/openhiun/hangul#nanum-barun-gothic-web-fonts
 [naver]: http://hangeul.naver.com/
 [demo]: http://www.openhiun.com/hangul/
 [navermain]: http://www.naver.com
+
+[wan2land]: https://github.com/wan2land
+[EzKorry]: https://github.com/EzKorry
+[kaiserjun]: https://github.com/kaiserjun
