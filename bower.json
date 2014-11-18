@@ -1,0 +1,22 @@
+{
+  "name": "ko-nanumbarungothic",
+  "version": "1.0.0",
+  "homepage": "https://github.com/openhiun/hangul",
+  "authors": [
+    "Naver"
+  ],
+  "main": "nanumbarungothic.css",
+  "keywords": [
+    "nanum",
+    "nanumbarungothic",
+    "nanumgothic"
+  ],
+  "license": "SIL OPEN FONT LICENSE",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
