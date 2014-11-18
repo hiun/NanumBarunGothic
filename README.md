@@ -10,6 +10,12 @@ English docs are avaliable on [here][english-version]
 
 본 저장소의 나눔바른고딕 웹폰트의 weight는 Bold(700), Regular(400), Light(300), UltraLight(200) 총 4가지 입니다.
 
+**Bower를 통한 설치**
+
+```
+bower install nanum-barun-gothic
+```
+
 **기본**
 
 웹사이트HTML문서의 ``<head>``안에 아래 코드를 붙혀 넣으시면 됩니다.
@@ -72,6 +78,11 @@ Everyone is welcome to use this and sooner or later Google Web API are supportin
 Bold(700), Regular(400), Light(300), UltraLight(200) weighted Nanum Barun Gothic is in this repository.
 
 Nanum Barun Gothic web fonts are available on 2 different way.
+
+**Install via Bower**
+```
+bower install nanum-barun-gothic
+```
 
 **Standard**
 
