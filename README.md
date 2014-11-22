@@ -20,14 +20,14 @@ bower install nanum-barun-gothic
 
 웹사이트HTML문서의 ``<head>``안에 아래 코드를 붙혀 넣으시면 됩니다.
 ```
-<link href='https://cdn.rawgit.com/openhiun/hangul/master/nanumbarungothic.css' rel='stylesheet' type='text/css'>
+<link href='https://cdn.rawgit.com/openhiun/hangul/14c0f6faa2941116bb53001d6a7dcd5e82300c3f/nanumbarungothic.css' rel='stylesheet' type='text/css'>
 ```
 
 **@import**
 
 웹사이트HTML문서의 ``<head>``안의 스타일 시트에 아래 코드를 붙혀 넣으시면 됩니다.
 ```
-@import url(https://cdn.rawgit.com/openhiun/hangul/master/nanumbarungothic.css);
+@import url(https://cdn.rawgit.com/openhiun/hangul/14c0f6faa2941116bb53001d6a7dcd5e82300c3f/nanumbarungothic.css);
 ```
 
 ## 적용하기
@@ -88,14 +88,14 @@ bower install nanum-barun-gothic
 
 To use font, insert below code to ``<head>``tag on your HTML document.
 ```
-<link href='https://cdn.rawgit.com/openhiun/hangul/master/nanumbarungothic.css' rel='stylesheet' type='text/css'>
+<link href='https://cdn.rawgit.com/openhiun/hangul/14c0f6faa2941116bb53001d6a7dcd5e82300c3f/nanumbarungothic.css' rel='stylesheet' type='text/css'>
 ```
 
 **@import**
 
 To use font, insert below code to stylesheet in``<head>``tag on your HTML document.
 ```
-@import url(https://cdn.rawgit.com/openhiun/hangul/master/nanumbarungothic.css);
+@import url(https://cdn.rawgit.com/openhiun/hangul/14c0f6faa2941116bb53001d6a7dcd5e82300c3f/nanumbarungothic.css);
 ```
 
 ## Applying
