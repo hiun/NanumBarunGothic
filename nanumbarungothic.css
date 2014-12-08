@@ -8,6 +8,7 @@
   src: local('Nanum Barun Gothic UltraLight'), local('Nanum Barun Gothic-UltraLight'), local('NanumBarunGothic UltraLight');
   src: url(./NanumBarunGothicUltraLight.eot);
   src: url(./NanumBarunGothicUltraLight.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunGothicUltraLight.woff2) format('woff2'),
        url(./NanumBarunGothicUltraLight.woff) format('woff'),
        url(./NanumBarunGothicUltraLight.ttf) format('truetype');
 }
@@ -19,6 +20,7 @@
   src: local('Nanum Barun Gothic Light'), local('Nanum Barun Gothic-Light'), local('NanumBarunGothic Light');
   src: url(./NanumBarunGothicLight.eot);
   src: url(./NanumBarunGothicLight.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunGothicLight.woff2) format('woff2'),
        url(./NanumBarunGothicLight.woff) format('woff'),
        url(./NanumBarunGothicLight.ttf) format('truetype');
 }
@@ -30,6 +32,7 @@
   src: local('Nanum Barun Gothic Regular'), local('Nanum Barun Gothic-Regular'), local('NanumBarunGothic Regular');
   src: url(./NanumBarunGothic.eot);
   src: url(./NanumBarunGothic.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunGothic.woff2) format('woff2'),
        url(./NanumBarunGothic.woff) format('woff'),
        url(./NanumBarunGothic.ttf) format('truetype');
 }
@@ -41,6 +44,7 @@
   src: local('Nanum Barun Gothic Bold'), local('Nanum Barun Gothic-Bold'), local('NanumBarunGothic Bold');
   src: url(./NanumBarunGothicBold.eot);
   src: url(./NanumBarunGothicBold.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunGothicBold.woff2) format('woff2'),
        url(./NanumBarunGothicBold.woff) format('woff'),
        url(./NanumBarunGothicBold.ttf) format('truetype');
 }
