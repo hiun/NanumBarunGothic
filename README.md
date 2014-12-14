@@ -60,7 +60,7 @@ body {
 [데모 페이지][demo]에서 나눔바른고딕을 적용한 페이지를 보실수 있습니다.
 
 ## 기여자들
-[wan2land] - 새로나온 Light와 UltraLight weight의 웹폰트 제공.
+[wan2land] - 새로나온 Light와 UltraLight weight의 웹폰트 제공, 전 폰트에 대한 WOFF2 포맷 제공
 
 [EzKorry] - 데모 코드의 `Content-Type` 에러에 대한 이슈 제기.
 
@@ -127,7 +127,7 @@ or applying font on class name like text, code is something like below?
 You can checkout Nanum Barun Gothic applied page at [Demo Page][demo]
 
 ## Contributors
-[wan2land] - Providing converted new Light and UltraLight font.
+[wan2land] - Providing converted new Light and UltraLight font, providing WOFF2 format for all font family.
 
 [EzKorry] - Issuing about `Content-Type` error in demo code.
 
@@ -135,7 +135,7 @@ You can checkout Nanum Barun Gothic applied page at [Demo Page][demo]
 
 [english-version]: https://github.com/openhiun/hangul#nanum-barun-gothic-web-fonts
 [naver]: http://hangeul.naver.com/
-[demo]: http://www.openhiun.com/hangul/
+[demo]: http://www.openhiun.com/NanumBarunGothic/
 [navermain]: http://www.naver.com
 
 [wan2land]: https://github.com/wan2land
