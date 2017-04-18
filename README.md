@@ -9,7 +9,7 @@ Web Font Version of Nanum Barun Gothic. Created by [NAVER](http://www.naver.com)
 - Light(300)
 - UltraLight(200)
 
-##Formats
+## Formats
 
 - ttf
 - eot
@@ -54,6 +54,6 @@ body {
 
 [kaiserjun](https://github.com/kaiserjun) - Issuing about conversion error in `.woff` format font.
 
-##License
+## License
 
 Copyright (c) 2010, NAVER Corporation (http://www.nhncorp.com)
